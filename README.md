@@ -14,7 +14,7 @@ A fully responsive, visually appealing coffee shop website built using HTML, CSS
 
 ## 🚀 Live Preview
 
-👉 [**View Live Site**]
+👉 [**View Live Site**](https://tanvircodes.github.io/greenbean-cafe/)
 
 ## 🛠️ Tech Stack
 - HTML5
